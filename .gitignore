@@ -1,0 +1,19 @@
+# Binaries
+todo
+todo.exe
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binaries
+*.test
+
+# Output of go build
+*.out
+
+# IDE/Editor settings
+.vscode/
+.idea/
+*.swp
