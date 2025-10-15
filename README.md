@@ -136,7 +136,8 @@ go test ./...
 
 ## 📜 License
 
-MIT License © 2025 [Aman](https://github.com/EternalKnight002)
+MIT License © 2025 
+See License File
 
 ````
 
