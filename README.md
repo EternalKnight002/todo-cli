@@ -1,9 +1,3 @@
-Got it ✅ I’ll give you a **ready-to-paste README.md** with your actual GitHub details filled in (`EternalKnight002/todo-cli`, your name **Aman**, and repo info).
-
-Here’s the complete file 👇
-
----
-
 ````markdown
 # 📝 todo-cli
 
