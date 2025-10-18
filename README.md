@@ -130,7 +130,7 @@ go test ./...
 
 ## 📜 License
 
-MIT License © 2025 
+GNU General Public License v3.0 © 2025 
 See License File
 
 ````
